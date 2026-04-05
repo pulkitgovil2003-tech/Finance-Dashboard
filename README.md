@@ -2,6 +2,12 @@
 
 A backend REST API for a finance dashboard system built with **FastAPI**, **Motor (async MongoDB)**, and **Poetry**.
 
+## Live API
+🚀 **Deployed URL:** https://finance-dashboard-r79x.onrender.com
+
+📖 **API Docs:** https://finance-dashboard-r79x.onrender.com/docs
+
+
 ## Tech Stack
 
 - **Language:** Python 3.12+
